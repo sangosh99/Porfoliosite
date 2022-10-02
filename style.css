@@ -1,0 +1,144 @@
+.head{
+    font-family: monospace;
+    font-size: 20px;
+    /* border: 2px solid rgba(172, 255, 47, 0.603); */
+    background-color: #7a7c7d;
+    
+    padding: 5px;
+    line-height: 2;
+    font-weight: bold;
+}
+
+fieldset{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 0.5px;
+    }
+
+.form{
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid rgb(179, 11, 11);
+    border-radius: 5px;
+     */
+}
+
+.container{
+    border: 1px solid rgba(120, 106, 106, 0.925);
+    padding: 20px;
+    background-color: rgba(245, 244, 244, 0.856);
+}
+p{
+    padding-bottom: 10px;
+    
+}
+
+button{
+    
+    padding: 6px;
+    padding-right: 10px;
+    background-color: rgba(222, 228, 228, 0.692);
+    border-radius: 10px;
+    padding-right: 6px;
+    font-weight: bold;
+    
+    
+}
+
+span{
+    font-size: 40px;
+}
+
+.submit{
+    padding: 10px;
+    
+}
+
+.container
+{
+    background-color: #b7b59d;
+}
+
+.name{
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    
+}
+
+.email{
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+}
+
+.namefield{
+font-family: cursive;
+}
+
+.emailfield{
+    font-family: cursive;
+}
+
+.pnofield{
+    font-family: cursive;
+    
+}
+.pn{
+    border-radius: 10px;
+    padding: 5px;
+    /* width: 500px;  */
+}
+
+.bday{
+    font-family: cursive;
+}
+
+.bfield{
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.role1{
+    font-family:fantasy ;
+}
+
+.role2{
+    font-family:fantasy ;
+}
+
+.role3{
+    font-family:fantasy ;
+}
+
+.loc{
+    font-family: cursive;
+}
+
+.se{
+    font-family: cursive;
+}
+
+.detail{
+    padding: 7px;
+    width: 350px;
+}
+
+.table1{
+    border-collapse: collapse;
+}
+
+.mess1{
+    font-family: cursive;
+}
+
+.submit{
+    background-color: #7a7c7d;
+    border-radius bottom: ;: 5px;
+    padding-bottom: 20px;
+}
+
+.subm{
+    
+    width: 100px;
+}
