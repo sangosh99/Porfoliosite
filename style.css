@@ -73,7 +73,7 @@ span{
 }
 
 .namefield{
-font-family: cursive;
+font-family: monospace;
 }
 
 .emailfield{
@@ -135,7 +135,7 @@ font-family: cursive;
 .submit{
     background-color: #7a7c7d;
     border-radius bottom: ;: 5px;
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 }
 
 .subm{
