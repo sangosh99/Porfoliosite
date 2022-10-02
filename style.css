@@ -1,11 +1,11 @@
 .head{
     font-family: monospace;
-    font-size: 20px;
+    font-size: 25px;
     /* border: 2px solid rgba(172, 255, 47, 0.603); */
     background-color: #7a7c7d;
     
-    padding: 5px;
-    line-height: 2;
+    padding: 10px;
+    line-height: 3;
     font-weight: bold;
 }
 
